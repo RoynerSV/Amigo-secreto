@@ -1,3 +1,4 @@
+// Este es mi primer commit
 const inputAmigo = document.getElementById("amigo");
 const listaAmigos = [];
 const ullistaAmigos = document.getElementById("listaAmigos");
